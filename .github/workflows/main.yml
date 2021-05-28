@@ -4,5 +4,8 @@ jobs:
   my-job:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: my-step
+        env:
+          MYSECRET: ${{ secrets.MYSECRET }}
         run: go test ./...

@@ -1,2 +1,4 @@
 github.com/dlorenc/is-even v0.0.0-20200610124049-477be2e91168 h1:4pC7aoIVDxFSRAQIxxekGIkdYId8n5RTN4SBYxWEFwk=
 github.com/dlorenc/is-even v0.0.0-20200610124049-477be2e91168/go.mod h1:uksw5ySjMLrG05nyK63c7B4sjjN9z2rn/WPNPcVBZnk=
+github.com/dlorenc/is-even v0.1.0 h1:f+xUKU+SyA9+V4ImItEiDVXOEKwAacXKrTOGjiNl1B4=
+github.com/dlorenc/is-even v0.1.0/go.mod h1:ZVokF0keiDHLHDEOA8C3mVZHWrkNHUMQlwmA8mnAdKs=
